@@ -1,0 +1,11 @@
+{
+  "name": "daily-picks-skills",
+  "owner": { "name": "Daily Picks" },
+  "plugins": [
+    {
+      "name": "locale-guard",
+      "source": "./locale-guard",
+      "description": "Check JSON i18n locale files against the base locale (free edition)."
+    }
+  ]
+}
