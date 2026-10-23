@@ -1,0 +1,6 @@
+{
+  "name": "locale-guard",
+  "version": "0.1.1",
+  "description": "Check JSON i18n locale files against the base locale: invalid JSON, duplicate keys, missing or extra keys, and broken placeholders. Stdlib-only Python, works offline.",
+  "license": "MIT"
+}
